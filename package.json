@@ -1,0 +1,25 @@
+{
+  "name": "cypress-code-challenge",
+  "version": "1.0.0",
+  "description": "Code Challenge ApplaudoStudios using Cypress",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Mistercleng/cypress-code-challenge.git"
+  },
+  "author": "Mistercleng Goncalves",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Mistercleng/cypress-code-challenge/issues"
+  },
+  "homepage": "https://github.com/Mistercleng/cypress-code-challenge#readme",
+  "devDependencies": {
+    "@faker-js/faker": "^7.3.0",
+    "cypress": "^9.5.3",
+    "cypress-fail-on-console-error": "^3.1.0",
+    "faker": "^5.5.3"
+  }
+}
